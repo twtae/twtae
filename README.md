@@ -37,7 +37,7 @@
 
 **Languages**
 
-<div>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=java,c,cpp,cs&theme=dark&perline=10" />
 </div>
 
@@ -45,7 +45,7 @@
 
 **Frameworks & Cloud**
 
-<div>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,azure,git,linux&theme=dark&perline=10" />
 </div>
 
@@ -56,15 +56,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=twtae&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&ring_color=7aa2f7&cache_seconds=3600" alt="GitHub Stats"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=twtae&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&ring_color=7aa2f7&cache_seconds=3600" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twtae&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&cache_seconds=3600" alt="Top Languages"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twtae&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&cache_seconds=3600" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=twtae&theme=transparent&hide_border=true&background=1A1B27&ring=7aa2f7&fire=f7768e&currStreakLabel=bb9af7&sideLabels=c0caf5&dates=565f89&sideNums=7aa2f7&currStreakNum=c0caf5" alt="GitHub Streak"/>
+  <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=twtae&theme=transparent&hide_border=true&background=1A1B27&ring=7aa2f7&fire=f7768e&currStreakLabel=bb9af7&sideLabels=c0caf5&dates=565f89&sideNums=7aa2f7&currStreakNum=c0caf5" alt="GitHub Streak"/>
 </div>
 
 <br/>
