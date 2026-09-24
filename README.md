@@ -24,7 +24,6 @@
 
 ```txt
 🎓  2nd-year CS     @ KMITL
-🌸  Cadet           @ 42Bangkok
 ⚙️  .NET Intern     @ KVYNN
 🤖  AI-assisted dev @ daily workflow
 🏆  Competitive Programming Enjoyer
