@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/badge/Bangkok-Thailand-7aa2f7?style=flat-square&labelColor=1a1b27"/>
   &nbsp;
   <img src="https://img.shields.io/badge/KMITL-CS%20Student-bb9af7?style=flat-square&labelColor=1a1b27"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/42Bangkok-Cadet-f7768e?style=flat-square&labelColor=1a1b27"/>
 </div>
 
 <br/>
@@ -64,12 +62,6 @@
 
 <div align="center">
   <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=twtae&theme=transparent&hide_border=true&background=1A1B27&ring=7aa2f7&fire=f7768e&currStreakLabel=bb9af7&sideLabels=c0caf5&dates=565f89&sideNums=7aa2f7&currStreakNum=c0caf5" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=twtae&theme=tokyo-night&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=f7768e&area=true&area_color=7aa2f7&hide_border=true" alt="Activity Graph"/>
 </div>
 
 <br/>
